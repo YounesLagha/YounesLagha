@@ -14,6 +14,7 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 <p align="right">
   <img src="https://tse2.mm.bing.net/th/id/OIP.qUzJIjChocSMt46b4Kgw2AHaHj?pid=Api" alt="dev image" width="100" style="margin-top: 10px;" />
 </p>
+
 ---
 
 ### 🔧 Tech Stack
