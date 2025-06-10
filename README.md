@@ -69,3 +69,8 @@ Currently Working On:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YounesLagha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Younes GitHub stats"/>
 </p>
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesLagha&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
