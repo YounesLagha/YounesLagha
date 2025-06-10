@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @YounesLagha
-- 👀 I’m interested in web developement 
-- 🌱 I’m currently learning python, html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋 My name is Younes
 
-<!---
-YounesLagha/YounesLagha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Aspiring Developer & Computer Science Student
+
+I'm a passionate beginner developer on an exciting coding journey! Currently learning programming fundamentals and exploring web development. I believe in continuous learning and improving every day.
+
+🌍 I'm based in Montréal, Canada  
+🎓 Currently studying B.Sc. in Computer Science at Université de Montréal  
+✉️ You can contact me at [youneslagha2119@gmail.com](mailto:youneslagha2119@gmail.com)  
+🧠 I'm currently learning: Java, Javascript, modern frameworks
+🌱 My goal: Build amazing web applications and contribute to open source  
+🤝 I'm open to collaborating on interesting projects and internship opportunities
+⚡ Fun fact: I built my first web project to help students generate computer science project ideas!
