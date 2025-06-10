@@ -22,10 +22,10 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -67,12 +67,11 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 
 ---
 
-### 🚀 Projects
+### 🚀 Learning Progress 
 
-- 🛠️ **MaVille** *(in progress)* – More infos coming soon
+Currently Working On:
 
-- 💡 More projects coming soon...
-
----
-
-
+📚 Learning JavaScript fundamentals
+🏗️ Building my first web projects
+🔐 Exploring cybersecurity basics through platforms like TryHackMe 
+🛠️ Improving my Git and GitHub workflow through real projects
