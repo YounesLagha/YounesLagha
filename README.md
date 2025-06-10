@@ -11,9 +11,6 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 🌱 My goal: Build amazing web applications and contribute to open source<br>
 🤝 I'm open to collaborating on interesting projects and internship opportunities<br>
 ⚡ Fun fact: My favorite binary number is 101 (it just looks cool).<br>
-<p align="right">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.qUzJIjChocSMt46b4Kgw2AHaHj?pid=Api" alt="dev image" width="100" style="margin-top: 10px;" />
-</p>
 
 ---
 
@@ -66,6 +63,9 @@ Currently Working On:
 🏗️ Building my first web projects<br>
 🔐 Exploring cybersecurity basics through platforms like TryHackMe<br>
 🛠️ Improving my Git and GitHub workflow through real projects<br>
+<p align="right">
+  <img src="https://tse2.mm.bing.net/th/id/OIP.qUzJIjChocSMt46b4Kgw2AHaHj?pid=Api" alt="dev image" width="100" style="margin-top: 10px;" />
+</p>
 
 ---
 ### 📊 GitHub Stats
