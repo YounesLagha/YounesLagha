@@ -68,7 +68,7 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younes-lagha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YounesLagha &show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
 
 
