@@ -12,6 +12,13 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 🤝 I'm open to collaborating on interesting projects and internship opportunities<br>
 ⚡ Fun fact: My favorite binary number is 101 (it just looks cool).<br>
 
+</td>
+<td width="40%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
+</div>
 ---
 
 ### 🔧 Tech Stack
