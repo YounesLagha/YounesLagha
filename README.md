@@ -66,9 +66,16 @@ Currently Working On:
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YounesLagha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesLagha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="200"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YounesLagha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Younes GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesLagha&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
 
 
