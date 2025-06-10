@@ -8,6 +8,6 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 🎓 Currently studying B.Sc. in Computer Science at Université de Montréal  
 ✉️ You can contact me at [youneslagha2119@gmail.com](mailto:youneslagha2119@gmail.com)  
 🧠 I'm currently learning: Java, JavaScript, modern frameworks <br>
-🌱 My goal: Build amazing web applications and contribute to open source 
-🤝 I'm looking for mentorship and beginner-friendly projects  
-⚡ Fun fact: I built my first web project to help students generate computer science project ideas!
+🌱 My goal: Build amazing web applications and contribute to open source<br>
+🤝 I'm looking for mentorship and beginner-friendly projects<br>
+⚡ Fun fact: I built my first web project to help students generate computer science project ideas!<br>
