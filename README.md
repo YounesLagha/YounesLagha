@@ -12,6 +12,7 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 🤝 I'm open to collaborating on interesting projects and internship opportunities<br>
 ⚡ Fun fact: My favorite binary number is 101 (it just looks cool).<br>
 
+---
 ### 🔧 Tech Stack
 
 <p align="center">
@@ -71,7 +72,7 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 
 Currently Working On:
 
-📚 Learning JavaScript fundamentals
-🏗️ Building my first web projects
-🔐 Exploring cybersecurity basics through platforms like TryHackMe 
-🛠️ Improving my Git and GitHub workflow through real projects
+📚 Learning JavaScript fundamentals<br>
+🏗️ Building my first web projects<br>
+🔐 Exploring cybersecurity basics through platforms like TryHackMe<br>
+🛠️ Improving my Git and GitHub workflow through real projects<br>
