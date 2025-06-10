@@ -40,5 +40,7 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   </a>
 </p>
+💡 *Note: I’m still improving my skills in these technologies every day.*
+
 
 
