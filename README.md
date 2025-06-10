@@ -1,3 +1,30 @@
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://tse2.mm.bing.net/th/id/OIP.qUzJIjChocSMt46b4Kgw2AHaHj?pid=Api" alt="Younes Avatar" style="border-radius:10px;width:100%;"/>
+    </td>
+    <td>
+
+## Hi 👋 My name is Younes
+
+### Aspiring Developer & Computer Science Student
+
+I'm a passionate beginner developer on an exciting coding journey! Currently learning programming fundamentals and exploring web development and cybersecurity. I believe in continuous learning and improving every day.
+
+🌍 I'm based in Montreal, Canada  
+🎓 Currently studying B.Sc. in Computer Science at Université de Montréal  
+✉️ You can contact me at youneslagha2119@gmail.com  
+🧠 I'm currently learning: Cybersecurity basics, JavaScript, modern frameworks  
+🌱 My goal: Build amazing web applications and contribute to open source  
+🤝 I'm open to collaborating on interesting projects and internship opportunities  
+⚡ Fun fact: My favorite binary number is 101 (it just looks cool).
+
+    </td>
+  </tr>
+</table>
+
+
+
 # Hi 👋 My name is Younes
 
 ## Aspiring Developer & Computer Science Student
