@@ -51,5 +51,19 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 </p>
 💡 *Note: I’m still improving my skills in these technologies every day.*
 
+### 🧠 Currently Learning
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Modern_Frameworks-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Modern Frameworks"/>
+  </a>
+  <a href="https://tryhackme.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cybersecurity_Basics-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Cybersecurity"/>
+  </a>
+</p>
+
 
 
