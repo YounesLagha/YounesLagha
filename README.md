@@ -7,7 +7,7 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 🌍 I'm based in Montreal, Canada  
 🎓 Currently studying B.Sc. in Computer Science at Université de Montréal  
 ✉️ You can contact me at [youneslagha2119@gmail.com](mailto:youneslagha2119@gmail.com)  
-🧠 I'm currently learning: Java, JavaScript, modern frameworks <br>
+🧠 I'm currently learning: Cybersecurity basics, JavaScript, modern frameworks <br>
 🌱 My goal: Build amazing web applications and contribute to open source<br>
 🤝 I'm open to collaborating on interesting projects and internship opportunities<br>
 ⚡ Fun fact: My favorite binary number is 101 (it just looks cool).<br>
@@ -65,5 +65,10 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
   </a>
 </p>
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=younes-lagha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</p>
 
 
