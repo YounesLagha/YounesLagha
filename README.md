@@ -80,5 +80,19 @@ Currently Working On:
   </tr>
 </table>
 
+### 🌐 Socials
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/younes-lagha-9a41a934a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:youneslagha2119@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/>
+  </a>
+  <a href="https://discord.com/users/youneslgha" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="Discord"/>
+  </a>
+</p>
+
 
 
