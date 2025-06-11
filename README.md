@@ -2,6 +2,9 @@
 
 ## Aspiring Developer & Computer Science Student
 
+<table>
+<tr>
+<td width="65%">
 I'm a passionate beginner developer on an exciting coding journey! Currently learning programming fundamentals and exploring web development and cybersecurity. I believe in continuous learning and improving every day.
 
 🌍 I'm based in Montreal, Canada  
@@ -13,12 +16,11 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 ⚡ Fun fact: My favorite binary number is 101 (it just looks cool).<br>
 
 </td>
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
+<td width="35%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding"/>
 </td>
 </tr>
 </table>
-</div>
 ---
 
 ### 🔧 Tech Stack
@@ -70,10 +72,6 @@ Currently Working On:
 🏗️ Building my first web projects<br>
 🔐 Exploring cybersecurity basics through platforms like TryHackMe<br>
 🛠️ Improving my Git and GitHub workflow through real projects<br>
-<p align="right">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.qUzJIjChocSMt46b4Kgw2AHaHj?pid=Api" alt="dev image" width="100" style="margin-top: 10px;" />
-</p>
-
 ---
 ### 📊 GitHub Stats
 
