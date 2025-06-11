@@ -2,9 +2,9 @@
 
 ## Aspiring Developer & Computer Science Student
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
-
 I'm a passionate beginner developer on an exciting coding journey! Currently learning programming fundamentals and exploring web development and cybersecurity. I believe in continuous learning and improving every day.
+
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
 🌍 I'm based in Montreal, Canada  
 🎓 Currently studying B.Sc. in Computer Science at Université de Montréal  
