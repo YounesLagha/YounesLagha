@@ -83,16 +83,14 @@ Currently Working On:
 ### 🌐 Socials
 
 <p align="center">
-  <a href="mailto:youneslagha2119@gmail.com" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="32" alt="Email"/>
+  <a href="mailto:youneslagha2119@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="32" alt="Email" style="margin: 0 15px;"/>
   </a>
-  
-  <a href="https://www.linkedin.com/in/younes-lagha-9a41a934a/" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/younes-lagha-9a41a934a/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn" style="margin: 0 15px;"/>
   </a>
-
-  <a href="https://discord.com/users/youneslgha" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="32" alt="Discord"/>
+  <a href="https://discord.com/users/youneslgha" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="32" alt="Discord" style="margin: 0 15px;"/>
   </a>
 </p>
 
