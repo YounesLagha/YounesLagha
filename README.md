@@ -2,9 +2,8 @@
 
 ## Aspiring Developer & Computer Science Student
 
-<table>
-<tr>
-<td width="65%">
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
+
 I'm a passionate beginner developer on an exciting coding journey! Currently learning programming fundamentals and exploring web development and cybersecurity. I believe in continuous learning and improving every day.
 
 🌍 I'm based in Montreal, Canada  
@@ -15,12 +14,7 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 🤝 I'm open to collaborating on interesting projects and internship opportunities<br>
 ⚡ Fun fact: My favorite binary number is 101 (it just looks cool).<br>
 
-</td>
-<td width="35%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding"/>
-</td>
-</tr>
-</table>
+
 ---
 
 ### 🔧 Tech Stack
