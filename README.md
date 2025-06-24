@@ -67,18 +67,7 @@ Currently Working On:
 🔐 Exploring cybersecurity basics through platforms like TryHackMe<br>
 🛠️ Improving my Git and GitHub workflow through real projects<br>
 ---
-### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YounesLagha&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Younes GitHub stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesLagha&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
 ### 🌐 Socials
 
 <div align="center">
