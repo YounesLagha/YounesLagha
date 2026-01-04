@@ -1,18 +1,29 @@
-# Hi 👋 My name is Younes
+# Hi 👋 I'm Younes
 
-## Aspiring Developer & Computer Science Student
+## Computer Science Student | Web & Cybersecurity Focus
 
-I'm a passionate beginner developer on an exciting coding journey! Currently learning programming fundamentals and exploring web development and cybersecurity. I believe in continuous learning and improving every day.
+I'm a Computer Science student with a strong interest in **web security, backend development, and defensive cybersecurity**.  
+I build practical projects that focus on **security analysis, clean architecture, and real-world tooling**, with the goal of becoming a solid software engineer with a cybersecurity mindset.
 
 <img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
-🌍 I'm based in Montreal, Canada  
-🎓 Currently studying B.Sc. in Computer Science at Université de Montréal  
-✉️ You can contact me at [youneslagha2119@gmail.com](mailto:youneslagha2119@gmail.com)  
-🧠 I'm currently learning: Cybersecurity basics, JavaScript, modern frameworks <br>
-🌱 My goal: Build amazing web applications and contribute to open source<br>
-🤝 I'm open to collaborating on interesting projects and internship opportunities<br>
-⚡ Fun fact: My favorite binary number is 101 (it just looks cool).<br>
+🌍 Based in Montreal, Canada  
+🎓 B.Sc. in Computer Science — Université de Montréal  
+✉️ Contact: [younes.lagha.dev@gmail.com](mailto:younes.lagha.dev@gmail.com)  
+
+🧠 Currently working on:
+- Web security analysis tools (HTTP headers, SSL/TLS, security scoring)
+- Backend APIs (Node.js / Express, PostgreSQL, Supabase)
+- Secure authentication & access control (JWT, RLS)
+
+🌱 Goals:
+- Summer 2025 internship in **software engineering or cybersecurity**
+- Strengthen skills in backend systems, web security, and cloud deployment
+
+🤝 Open to:
+- Internships
+- Hackathons & security-oriented projects
+- Collaboration on practical web tools
 
 
 ---
@@ -56,16 +67,6 @@ I'm a passionate beginner developer on an exciting coding journey! Currently lea
 </p>
 💡 *Note: I’m still improving my skills in these technologies every day.*
 
----
-
-### 🚀 Learning Progress 
-
-Currently Working On:
-
-📚 Learning JavaScript fundamentals<br>
-🏗️ Building my first web projects<br>
-🔐 Exploring cybersecurity basics through platforms like TryHackMe<br>
-🛠️ Improving my Git and GitHub workflow through real projects<br>
 ---
 
 ### 🌐 Socials
