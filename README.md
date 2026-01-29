@@ -17,7 +17,7 @@ I build practical projects that focus on **security analysis, clean architecture
 - Secure authentication & access control (JWT, RLS)
 
 🌱 Goals:
-- Summer 2025 internship in **software engineering or cybersecurity**
+- Summer 2026 internship
 - Strengthen skills in backend systems, web security, and cloud deployment
 
 🤝 Open to:
